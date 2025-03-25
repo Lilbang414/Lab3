@@ -9,3 +9,5 @@ will be between 24 and 48 hours. Weekends is based on availibility, no guarantee
 3. The task is complete when all tests are passed and a pull request is made.
 
 4.for scrum mettings, we have a 15 mins max of one hour. wont be on phones too much. going to document whos is working on what
+
+5. Style the code in camelCase, also we will also adopted the principles SOLID 
